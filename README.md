@@ -12,6 +12,7 @@ Please feel free to check out my models and reach out, I'm open for improvement!
 
 - Overall Rank: **1755/5610**
 - Total lap time: **02:58:922**
+- Off track: 0
 - Completed **3** laps.
 
 
